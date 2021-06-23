@@ -1,6 +1,6 @@
 <h2> Hi, I'm Douglas Barreto</h2>
 - 🌱 I’m currently learning Python
-```Python
+```python
 class Dosi:
   def __init__(self):
       self.name = "Douglas"
