@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Douglas Barreto</h1>
-<h3 align="center">A in process backend developer from Venezuela</h3>
+<h3 align="center">A backend developer in process of Venezuela</h3>
 
 - 🌱 I’m currently learning **django, rust and javascript**
 
