@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning **rust, react, nextjs and English**
 
-👨‍💻 All of my projects are available at <a href="dosideveloper.github.io">My website</a>
+👨‍💻 All of my projects are available at <a href="dosideveloper.github.io">My website</a> (In process)
 
 📫 How to reach me **dosideveloper@gmail.com**
 
