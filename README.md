@@ -11,11 +11,11 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dosideveloper&theme=darcula" alt="GitHub Streak" width="380"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DosiDeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="150" src="https://avatars.githubusercontent.com/u/86265338?s=400&u=ac6b4e7f63d9b5f0474266a9a844dfbf39f8609c&v=4"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/86265338?s=400&u=ac6b4e7f63d9b5f0474266a9a844dfbf39f8609c&v=4"  />
 
 ###
 
