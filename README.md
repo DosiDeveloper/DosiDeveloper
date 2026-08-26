@@ -13,6 +13,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=DosiDeveloper&langs_count=5&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=DosiDeveloper&langs_count=5&theme=darcula" height="150" alt="languages graph"  />
   <img height="150" src="https://avatars.githubusercontent.com/u/86265338?s=400&u=ac6b4e7f63d9b5f0474266a9a844dfbf39f8609c&v=4"  />
 </div>
+
 ###
 
 ###
@@ -23,6 +24,9 @@
   </a>
   <a href="https://www.instagram.com/ds_sbb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://dosideveloper.vercel.app/">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdosideveloper.vercel.app%2F&style=for-the-badge">
   </a>
 </div>
 
@@ -48,7 +52,7 @@
 
 ###
 
-<p align="center">I'm currently studying statistics and a bit of frontend development.</p>
+<p align="center">I'm currently studying statistics and a bit of frontend and backend development.</p>
 
 ###
 
